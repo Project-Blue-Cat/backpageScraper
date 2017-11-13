@@ -1,0 +1,13 @@
+{
+  "name"         : "collection",
+  "version"      : "0.0.1",
+  "description"  : "",
+  "main"         : "app.js",
+  "author"       : "",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "@google-cloud/datastore": "~1.0.2"
+  }
+}
